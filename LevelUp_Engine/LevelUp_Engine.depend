@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1466712195 source:e:\levelup_engine\lu_object.cpp
+	"LU_Object.h"
+
+1466712215 e:\levelup_engine\lu_object.h
+	"LevelUp.h"
+
+1466713692 e:\levelup_engine\levelup.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+	"LU_Init.h"
+	"GUI/LU_GUI.h"
+
+1466713951 e:\levelup_engine\lu_init.h
+	"LevelUp.h"
+	<windows.h>
+
+1466712834 e:\levelup_engine\lu_createtexture.h
+
+1466711886 e:\levelup_engine\lu_gui.h
+	<SDL.h>
+	<SDL_image.h>
+
+1466711626 source:e:\levelup_engine\lu_gui.cpp
+	"LU_GUI.h"
+
+1466712149 source:e:\levelup_engine\main.cpp
+	"LevelUp.h"
+
+1466711626 source:e:\levelup_engine\gui\lu_gui.cpp
+	"LU_GUI.h"
+
+1466711886 e:\levelup_engine\gui\lu_gui.h
+	<SDL.h>
+	<SDL_image.h>
+
+1466712870 source:e:\levelup_engine\gui\lu_button.cpp
+	"LU_Button.h"
+
+1466713171 e:\levelup_engine\gui\lu_button.h
+	"../LevelUp.h"
+
+1466713255 source:e:\levelup_engine\gui\lu_inputfield.cpp
+	"LU_InputField.h"
+
+1466713220 e:\levelup_engine\gui\lu_inputfield.h
+	"../LevelUp.h"
+
+1466713460 source:e:\levelup_engine\gui\lu_link.cpp
+	"LU_Link.h"
+
+1466713373 e:\levelup_engine\gui\lu_link.h
+	"../LevelUp.h"
+
+1466713938 source:e:\levelup_engine\lu_init.cpp
+	"LU_Init.h"
+

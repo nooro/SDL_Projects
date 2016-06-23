@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1458145081 source:e:\server\main.cpp
+	"Server.h"
+
+1462189748 e:\server\server.h
+	<SDL_net.h>
+	<iostream>
+	<string>
+	"Client.h"
+	"PacketKeys.h"
+	"ProfileManager.h"
+
+1458223108 e:\server\client.h
+
+1462189022 e:\server\packetkeys.h
+
+1458746959 e:\server\profilemanager.h
+	<iostream>
+	<fstream>
+	"PacketKeys.h"
+
+1458944936 source:e:\server\profilemanager.cpp
+	"ProfileManager.h"
+
+1462268085 source:e:\server\server.cpp
+	"Server.h"
+
