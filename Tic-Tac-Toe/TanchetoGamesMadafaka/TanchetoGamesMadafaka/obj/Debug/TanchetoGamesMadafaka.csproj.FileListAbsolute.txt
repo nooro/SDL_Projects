@@ -1,6 +1,0 @@
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\bin\Debug\TanchetoGamesMadafaka.exe.config
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\bin\Debug\TanchetoGamesMadafaka.exe
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\bin\Debug\TanchetoGamesMadafaka.pdb
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\obj\Debug\TanchetoGamesMadafaka.csprojResolveAssemblyReference.cache
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\obj\Debug\TanchetoGamesMadafaka.exe
-E:\TanchetoGamesMadafaka\TanchetoGamesMadafaka\obj\Debug\TanchetoGamesMadafaka.pdb
